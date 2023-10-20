@@ -33,11 +33,11 @@ We welcome contributions from the community. If you'd like to contribute, please
 
 ## Contact
 
-For questions, issues, or feature requests, please [open an issue](https://github.com/yourusername/messenger-clone/issues).
+For questions, issues, or feature requests, please [open an issue](https://github.com/Q2jatte/messenger-clone/issues).
 
 ## Authors
 
-- [Your Name](https://github.com/yourusername)
+- [Your Name](https://github.com/Q2jatte)
 
 ## Credits
 
