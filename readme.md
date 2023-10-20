@@ -37,7 +37,7 @@ For questions, issues, or feature requests, please [open an issue](https://githu
 
 ## Authors
 
-- [Your Name](https://github.com/Q2jatte)
+- [Q2jatte](https://github.com/Q2jatte)
 
 ## Credits
 
